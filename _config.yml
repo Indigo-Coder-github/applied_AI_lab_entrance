@@ -72,3 +72,6 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+  - lunr
+  - search
+  - search-pro

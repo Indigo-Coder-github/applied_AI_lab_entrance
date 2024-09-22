@@ -1,4 +1,7 @@
-title: test
+---
+layout: home
+title: Jekyll Gitbook Theme
+permalink: /
 date: YYYY-MM-DD HH:MM:SS +09:00
 categories: [test_main, test_sub, test_sub_sub]
 tags:[
@@ -6,5 +9,8 @@ tags:[
     test2,
     test3
 ]
+---
+
+# test
 
 - test를 위한 페이지입니다.
