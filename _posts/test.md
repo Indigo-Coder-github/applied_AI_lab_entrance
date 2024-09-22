@@ -1,14 +1,9 @@
 ---
-layout: home
-title: Jekyll Gitbook Theme
-permalink: /
-date: YYYY-MM-DD HH:MM:SS +09:00
-categories: [test_main, test_sub, test_sub_sub]
-tags:[
-    test1,
-    test2,
-    test3
-]
+title: test
+author: Joonseo Hyeon
+date: 2024-09-22
+category: Jekyll
+layout: post
 ---
 
 # test
