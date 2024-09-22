@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            JBNU Applied AI Lab Entrance Page
+longtitle:        JBNU Applied AI Lab Entrance Page
+author:           Joonseo Hyeon
+email:            hjs40111@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  전북대학교 적응형 인공지능 연구실(Applied AI Lab)에 새로 들어온 분들을 위한 페이지입니ㅏㄷ.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://indigo-coder-github.github.io/applied_AI_lab_entrance/'
+baseurl:          '/applied_AI_lab_entrance'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -72,3 +72,6 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+  - lunr
+  - search
+  - search-pro
