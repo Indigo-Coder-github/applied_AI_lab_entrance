@@ -3,7 +3,7 @@ layout: post
 title: test
 author: Joonseo Hyeon
 date: 2024-09-22
-category: [Machine Learning]
+category: [machine_learning]
 ---
 
 ## test
