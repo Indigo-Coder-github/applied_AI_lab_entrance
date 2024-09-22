@@ -3,7 +3,7 @@ layout: post
 title: test
 author: Joonseo Hyeon
 date: 2024-09-22
-category: Jekyll
+category: [Machine Learning]
 ---
 
 ## test
