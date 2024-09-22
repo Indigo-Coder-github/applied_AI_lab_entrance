@@ -4,12 +4,12 @@ longtitle:        JBNU Applied AI Lab Entrance Page
 author:           Joonseo Hyeon
 email:            hjs40111@gmail.com
 description: >
-  전북대학교 적응형 인공지능 연구실(Applied AI Lab)에 새로 들어온 분들을 위한 페이지입니ㅏㄷ.
+  전북대학교 적응형 인공지능 연구실(Applied AI Lab)에 새로 들어온 분들을 위한 페이지입니다.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://indigo-coder-github.github.io/applied_AI_lab_entrance/'
+url:              'https://indigo-coder-github.github.io'
 baseurl:          '/applied_AI_lab_entrance'
 rss:              RSS
 
@@ -41,7 +41,7 @@ syntax_highlighter_style: colorful
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:                /:categories/:year-:month-:day-:title:output_ext
+permalink:                /:categories/:year-:month-:day-:title
 
 # Disqus comments
 # disqushandler:            sighingnow
