@@ -53,7 +53,14 @@ collections:
   posts:
     output: true
     sort_by: name
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/:title
+  deep_learning:
+    output: true
+    sort_by: name
+  machine_learning:
+    output: true
+    sort_by: name
+
 
 page_width: 800px
 
