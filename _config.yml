@@ -50,15 +50,15 @@ exclude:
   - _drafts
 
 collections:
-  posts:
-    output: true
-    sort_by: name
-    permalink: /:collection/:path/:title
   deep_learning:
     output: true
     sort_by: name
     permalink: /:collection/:path/:title
   machine_learning:
+    output: true
+    sort_by: name
+    permalink: /:collection/:path/:title
+  etc:
     output: true
     sort_by: name
     permalink: /:collection/:path/:title
