@@ -57,9 +57,11 @@ collections:
   deep_learning:
     output: true
     sort_by: name
+    permalink: /:collection/:path/:title
   machine_learning:
     output: true
     sort_by: name
+    permalink: /:collection/:path/:title
 
 
 page_width: 800px
