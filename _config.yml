@@ -66,6 +66,11 @@ collections:
 
 page_width: 800px
 
+sidebar:
+  enabled: true
+  width: 300px
+  position: left
+
 destination:      ./_site
 incremental:      false
 regenerate:       true
