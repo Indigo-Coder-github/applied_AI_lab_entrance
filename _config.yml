@@ -37,7 +37,7 @@ kramdown:
     default_lang:         python
     guess_lang:           true
 
-syntax_highlighter_style: mololao
+syntax_highlighter_style: molokai
 
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
