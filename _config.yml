@@ -52,7 +52,7 @@ exclude:
 collections:
   posts:
     output: true
-    permalink: /:categories/:title
+    permalink: /:collection/:title
 
 page_width: 800px
 
