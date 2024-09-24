@@ -1,8 +1,6 @@
 ---
-title: Test
-author: Tao He
-date: 2024-09-24
-category: Jekyll
+title: Long Short Term Memory(LSTM)
+author: Joonseo Hyeon
 layout: post
 ---
 

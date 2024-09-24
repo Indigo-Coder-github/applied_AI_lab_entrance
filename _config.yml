@@ -50,17 +50,20 @@ exclude:
   - _drafts
 
 collections:
-  pages:
+  machine_learning:
     output: true
-    permalink: /:collection/:path/
-  others:
+    permalink: /:collection/:path/:title
+  deep_learning:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/:title
+  etc:
+    output: true
+    permalink: /:collection/:path/:title
 
 ordered_collections:
-  - posts
-  - pages
-  - others
+  - machine_learning
+  - deep_learning
+  - etc
 
 page_width: 800px
 
