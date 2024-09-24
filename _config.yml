@@ -1,16 +1,16 @@
 # Configurations
-title:            JBNU Applied AI Lab Entrance Page
-longtitle:        JBNU Applied AI Lab Entrance Page
-author:           Joonseo Hyeon
-email:            hjs40111@gmail.com
+title:            Jekyll Gitbook
+longtitle:        Jekyll Gitbook
+author:           HE Tao
+email:            sighingnow@gmail.com
 description: >
-  전북대학교 적응형 인공지능 연구실(Applied AI Lab)에 새로 들어온 분들을 위한 페이지입니다.
+  Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://indigo-coder-github.github.io'
-baseurl:          '/applied_AI_lab_entrance'
+url:              'https://sighingnow.github.io'
+baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -18,8 +18,8 @@ remote_theme: sighingnow/jekyll-gitbook
 
 toc:
   enabled: true
-  h_min:   1
-  h_max:   3
+  h_min: 1
+  h_max: 3
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path:     /assets/gitbook/images/favicon.ico
@@ -41,7 +41,7 @@ syntax_highlighter_style: colorful
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:                /:categories/:title
+permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
 # disqushandler:            sighingnow
@@ -50,16 +50,19 @@ exclude:
   - _drafts
 
 collections:
-  posts:
+  pages:
     output: true
-    permalink: /:collection/:title
+    permalink: /:collection/:path/
+  others:
+    output: true
+    permalink: /:collection/:path/
+
+ordered_collections:
+  - posts
+  - pages
+  - others
 
 page_width: 800px
-
-sidebar:
-  enabled: true
-  width: 300px
-  position: left
 
 destination:      ./_site
 incremental:      false
@@ -69,6 +72,3 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
-  - lunr
-  - search
-  - search-pro
