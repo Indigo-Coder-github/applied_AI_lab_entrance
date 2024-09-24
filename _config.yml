@@ -49,8 +49,10 @@ permalink:                /:categories/:title
 exclude:
   - _drafts
 
-ordered_collections:
-  - posts
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title
 
 page_width: 800px
 
