@@ -41,7 +41,7 @@ syntax_highlighter_style: colorful
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:                /:collection/:title
+permalink:                /:categories/:title
 
 # Disqus comments
 # disqushandler:            sighingnow
@@ -49,20 +49,8 @@ permalink:                /:collection/:title
 exclude:
   - _drafts
 
-collections:
-  deep_learning:
-    output: true
-    sort_by: name
-    permalink: /:collection/:path/:title
-  machine_learning:
-    output: true
-    sort_by: name
-    permalink: /:collection/:path/:title
-  etc:
-    output: true
-    sort_by: name
-    permalink: /:collection/:path/:title
-
+ordered_collections:
+  - posts
 
 page_width: 800px
 
