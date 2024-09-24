@@ -4,15 +4,10 @@ author: Joonseo Hyeon
 layout: post
 ---
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. However, it's quite annoying to repeat such workload and make it hard for people do
-version control via git for when there are generated HTML files to be staged in and out.
+서버-host-jupyter notebook-client에 대해서는 따로 연락 바람
 
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repository.
+server에서 GPU를 사용하는지 실시간으로 알 수 있는 방법은 Ubuntu kernel에서 nvidia-smi를 입력하여 점유중인 프로세스가 있는지 확인하는 것이다.
 
-[1]: https://pages.github.com
+- 이외에는 다른 방법이 없어 더이상 코드를 돌리지 않으려면 커널을 shutdown하여 점유된 GPU 자원이 반납될 수 있도록 하자.
+
+코드가 완료됐는지 확인하기 귀찮다면 이메일 발송 코드를 작성하자.
