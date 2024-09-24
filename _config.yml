@@ -79,3 +79,5 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+syntax_highlighter_style: colorful
