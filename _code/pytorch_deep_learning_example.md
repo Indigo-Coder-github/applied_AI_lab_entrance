@@ -1,5 +1,5 @@
 ---
-title: 논문 쓰기와 찾아보기
+title: Pytorch Deep Learning Example
 author: Joonseo Hyeon
 layout: post
 ---
