@@ -41,7 +41,7 @@ syntax_highlighter_style: colorful
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:                /:collection/:path/:title
+permalink:                /:collection/:path
 
 # Disqus comments
 # disqushandler:            sighingnow
@@ -52,16 +52,16 @@ exclude:
 collections:
   machine_learning:
     output: true
-    permalink: /:collection/:path/:title
+    permalink: /:collection/:path
   deep_learning:
     output: true
-    permalink: /:collection/:path/:title
+    permalink: /:collection/:path
   code:
     output: true
-    permalink: /:collection/:path/:title
+    permalink: /:collection/:path
   etc:
     output: true
-    permalink: /:collection/:path/:title
+    permalink: /:collection/:path
 
 ordered_collections:
   - machine_learning

@@ -24,5 +24,6 @@ permalink: /
 
 ### 기타
 
-- 논문작성
+- 논문관련
+- GPU 서버 관련
 - preferences
