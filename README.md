@@ -12,18 +12,18 @@ permalink: /
 
 ### Machine Learning
 
-- SVM
+- [SVM](https://indigo-coder-github.github.io/applied_AI_lab_entrance/machine_learning/SVM)
 
 ### Deep Learning
 
-- LSTM
+- [LSTM](https://indigo-coder-github.github.io/applied_AI_lab_entrance/deep_learning/LSTM)
 
 ### code
 
-- pytorch deep learning example
+- [pytorch deep learning example](https://indigo-coder-github.github.io/applied_AI_lab_entrance/code/pytorch_deep_learning_example)
 
 ### 기타
 
-- 논문관련
-- GPU 서버 관련
-- preferences
+- [논문관련](https://indigo-coder-github.github.io/applied_AI_lab_entrance/etc/%EB%85%BC%EB%AC%B8%20%EC%9E%91%EC%84%B1)
+- [GPU 서버 관련](https://indigo-coder-github.github.io/applied_AI_lab_entrance/etc/GPU_server)
+- [preferences](https://indigo-coder-github.github.io/applied_AI_lab_entrance/etc/preferences)
