@@ -60,6 +60,9 @@ collections:
   code:
     output: true
     permalink: /:collection/:path
+  python_lecture:
+    output: true
+    permalink: /:collection/:path
   etc:
     output: true
     permalink: /:collection/:path
