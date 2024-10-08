@@ -1,3 +1,10 @@
+---
+title: Python Lecture Chap 6
+author: Joonseo Hyeon
+layout: post
+---
+
+
 # 기초반 6차시
 
 ## TOC

@@ -1,3 +1,10 @@
+---
+title: Python Lecture Chap 3
+author: Joonseo Hyeon
+layout: post
+---
+
+
 # 기초반 3차시
 
 ## TOC

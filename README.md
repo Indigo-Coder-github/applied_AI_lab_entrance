@@ -27,3 +27,4 @@ permalink: /
 - [논문관련](https://indigo-coder-github.github.io/applied_AI_lab_entrance/etc/%EB%85%BC%EB%AC%B8%20%EC%9E%91%EC%84%B1)
 - [GPU 서버 관련](https://indigo-coder-github.github.io/applied_AI_lab_entrance/etc/GPU_server)
 - [preferences](https://indigo-coder-github.github.io/applied_AI_lab_entrance/etc/preferences)
+- [Python Lecture](https://indigo-coder-github.github.io/applied_AI_lab_entrance/python_lecture)

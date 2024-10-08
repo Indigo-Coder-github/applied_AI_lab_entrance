@@ -1,3 +1,10 @@
+---
+title: Python Lecture Chap 5
+author: Joonseo Hyeon
+layout: post
+---
+
+
 # 기초반 5차시
 
 ## TOC

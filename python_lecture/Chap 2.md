@@ -1,3 +1,10 @@
+---
+title: Python Lecture Chap 2
+author: Joonseo Hyeon
+layout: post
+---
+
+
 # 기초반 2차시
 
 ## TOC

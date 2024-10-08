@@ -1,3 +1,10 @@
+---
+title: Python Lecture Chap 7
+author: Joonseo Hyeon
+layout: post
+---
+
+
 # 기초반 7차시
 
 ## TOC

@@ -1,3 +1,10 @@
+---
+title: Python Lecture Chap 4
+author: Joonseo Hyeon
+layout: post
+---
+
+
 # 기초반 4차시
 
 ## TOC
