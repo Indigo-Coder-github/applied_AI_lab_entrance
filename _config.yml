@@ -71,6 +71,7 @@ ordered_collections:
   - machine_learning
   - deep_learning
   - code
+  - python_lecture
   - etc
 
 page_width: 800px
