@@ -73,7 +73,7 @@ collections:
 ordered_collections:
   - machine_learning
   - deep_learning
-    - architecture
+  - architecture
   - code
   - python_lecture
   - etc
