@@ -4,5 +4,3 @@ author: Joonseo Hyeon
 layout: post
 category: architecture
 ---
-
-# Long Short Term Memory(LSTM)

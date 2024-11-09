@@ -16,7 +16,7 @@ permalink: /
 
 ### Deep Learning
 
-- [LSTM](https://indigo-coder-github.github.io/applied_AI_lab_entrance/deep_learning/LSTM)
+- [LSTM](https://indigo-coder-github.github.io/applied_AI_lab_entrance/deep_learning/architecture/LSTM)
 
 ### code
 
