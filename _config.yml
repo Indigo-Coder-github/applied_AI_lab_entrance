@@ -59,7 +59,7 @@ collections:
     permalink: /:collection/:path
   architecture:
     output: true
-    permalink: /:path
+    permalink: /:collection/:path
   code:
     output: true
     permalink: /:collection/:path
