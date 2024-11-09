@@ -50,6 +50,7 @@ permalink:                /:collection/:path
 exclude:
   - _drafts
 
+collections_dir: collections
 collections:
   machine_learning:
     output: true
