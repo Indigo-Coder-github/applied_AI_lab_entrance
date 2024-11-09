@@ -58,9 +58,8 @@ collections:
   deep_learning:
     output: true
     permalink: /:collection/:path
-  architecture:
-    output: true
-    permalink: /:collection/:path
+    categories:
+     - architecture
   code:
     output: true
     permalink: /:collection/:path
@@ -74,7 +73,6 @@ collections:
 ordered_collections:
   - machine_learning
   - deep_learning
-  - architecture
   - code
   - python_lecture
   - etc
