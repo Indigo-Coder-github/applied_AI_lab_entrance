@@ -57,9 +57,6 @@ collections:
   deep_learning:
     output: true
     permalink: /:collection/:path
-  architecture:
-    output: true
-    permalink: /:collection/:path
   code:
     output: true
     permalink: /:collection/:path
