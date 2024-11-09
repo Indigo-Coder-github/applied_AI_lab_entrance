@@ -50,6 +50,7 @@ permalink:                /:collection/:path
 exclude:
   - _drafts
 
+collections_dir: collections
 collections:
   machine_learning:
     output: true
@@ -57,7 +58,12 @@ collections:
   deep_learning:
     output: true
     permalink: /:collection/:path
+    categories:
+     - architecture
   code:
+    output: true
+    permalink: /:collection/:path
+  python_lecture:
     output: true
     permalink: /:collection/:path
   etc:
@@ -68,6 +74,7 @@ ordered_collections:
   - machine_learning
   - deep_learning
   - code
+  - python_lecture
   - etc
 
 page_width: 800px
