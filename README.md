@@ -22,9 +22,19 @@ permalink: /
 
 - [pytorch deep learning example](https://indigo-coder-github.github.io/applied_AI_lab_entrance/code/pytorch_deep_learning_example)
 
+### Python Lecture
+
+- [Chapter 1](https://indigo-coder-github.github.io/applied_AI_lab_entrance/code/Chap_1)
+- [Chapter 2](https://indigo-coder-github.github.io/applied_AI_lab_entrance/code/Chap_2)
+- [Chapter 3](https://indigo-coder-github.github.io/applied_AI_lab_entrance/code/Chap_3)
+- [Chapter 4](https://indigo-coder-github.github.io/applied_AI_lab_entrance/code/Chap_4)
+- [Chapter 5](https://indigo-coder-github.github.io/applied_AI_lab_entrance/code/Chap_5)
+- [Chapter 6](https://indigo-coder-github.github.io/applied_AI_lab_entrance/code/Chap_6)
+- [Chapter 7](https://indigo-coder-github.github.io/applied_AI_lab_entrance/code/Chap_7)
+
 ### 기타
 
 - [논문관련](https://indigo-coder-github.github.io/applied_AI_lab_entrance/etc/%EB%85%BC%EB%AC%B8%20%EC%9E%91%EC%84%B1)
 - [GPU 서버 관련](https://indigo-coder-github.github.io/applied_AI_lab_entrance/etc/GPU_server)
+- [Ubuntu 명령어 관련](https://indigo-coder-github.github.io/applied_AI_lab_entrance/etc/Ubuntu_Command)
 - [preferences](https://indigo-coder-github.github.io/applied_AI_lab_entrance/etc/preferences)
-- [Python Lecture](https://indigo-coder-github.github.io/applied_AI_lab_entrance/python_lecture)
