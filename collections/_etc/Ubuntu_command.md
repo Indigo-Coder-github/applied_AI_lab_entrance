@@ -81,3 +81,31 @@ rm -r -f 디렉토리명
 
 - 디렉토리명 아래의 모든 폴더와 파일을(-r) 강제적으로 (-f) 삭제
 - **절대 복구가 안되므로 사용시 매우 주의를 요함! 시스템을 실수로 날리는 경우 부팅 불가능!**
+
+## SSH 관련
+
+systemctl status sshd
+
+- ssh 서비스 실행 확인, active (running)일 경우 현재 서버가 열려있음
+
+ss -nlt
+
+- listem 상태인 ip-port 목록
+- ssh 접속을 허용하는 port 번호가 listen 상태로 등록되어야 함
+
+ufw enable/disable
+
+- 방화벽 활성화/비활성화
+
+ufw status verbose
+
+- 허용된 방화벽 포트번호 확인
+
+ufw allow 포트번호
+
+- 해당 포트번호로의 통신 허용
+
+ssh 아이디@ip주소 -p 포트번호
+
+- ip주소에 해당하는 서버에 아이디에 해당하는 사용자 계정으로 포트번호를 통해 로그인
+- windows의 ssh 통신도 같은 명령어 사용
